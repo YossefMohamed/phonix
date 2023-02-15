@@ -56,7 +56,7 @@ $('.saq').click(function() {
      
  });
  
-var countDownDate = new Date("dec 5, 2020 15:37:25").getTime();
+var countDownDate = new Date("dec 5, 2024 15:37:25").getTime();
 
 var x = setInterval(function() {
 
